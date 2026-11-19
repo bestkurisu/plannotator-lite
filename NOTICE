@@ -1,0 +1,17 @@
+plannotator-lite
+
+This product includes software from Plannotator by backnotprop and its contributors.
+Copyright 2025-2026 backnotprop
+
+Upstream project — https://github.com/backnotprop/plannotator
+Upstream version — v0.29.0
+Upstream commit — 55e6bbd2b16580b23b5926b235a314a17591d12a
+
+bestkurisu modified this distribution from Plannotator v0.29.0.
+The changes translate the review interface to Chinese, add a compact desktop
+layout for PRD review, and use the plannotator-lite project name and metadata.
+The Noto Emoji 3D static image pack is omitted, and the Inbox's built-in pack
+list and relevant tests reflect that omission.
+
+See LICENSE for Apache License 2.0 and THIRD_PARTY_NOTICES.md for material
+that carries separate terms.
